@@ -44,7 +44,7 @@ a:houver{
 
 /*efeito alterar a cor quando clicar com o mouse*/
 a:active{
-    color:aquamarine(105,144,216 );
+    color:cyan(105,144,216 );
 }
 
 
@@ -59,10 +59,27 @@ a:active{
 
 /**/
 .escola{
-    background-image: linear-gradient(#424e61, #16cffb);]
+    background-image: linear-gradient(#424e61, #16cffb);}
     color:
     display: flex;
     justify-content:center;
     padding:24px 0;
     
+}
+
+/**/
+.escola-div-conteúdo{
+    width: 45%;
+}
+
+/**/
+.escola-titulo{
+    padding: 24px 0;
+}
+
+/**/
+p{
+    padding: 0 40px;/*alinhar o espaçamento*/
+    font-size: 20px:/*tamanho da fonte*/
+    font-family: arial, helvetica, sans-serif;/*especifica a fonte de um elemento*/
 }
