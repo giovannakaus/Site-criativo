@@ -1,7 +1,7 @@
 /*Adicionar as propirdades margin e padding no seletor universal (asterisco)*/
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0; /*altera o espaçamento externo*/
+    padding: 0; /*altera o espaçamento interno*/
 }
 /*iniciar seção cabeçalho*/
 
