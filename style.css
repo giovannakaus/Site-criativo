@@ -6,17 +6,16 @@
 /*iniciar seção cabeçalho*/
 
 .cabecalho{
-    background-color: blueviolet;
-    color:aqua;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+    background-color: blueviolet; /*cor de fundo*/
+    color:aqua; /*cor*/
+    display: flex; /*propiedade flex para organizar os itens do cabeçalho, lado a lado*/
+    justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
+    align-items: center; /*alinhamento de itens centralizado*/
+    padding: 24px 0; /*altera o espaçamento interno*/
 }
 
-
 .cabecalho-imagem{
-    width: 8%;
+    width: 8%; /**/
     border-radius: 22px; /*para definir bordas arredondadas na imagem*/
 }
 
@@ -27,13 +26,13 @@ crie um seletor para a classe .cabecalho-lista-item, adicionando nele a propieda
 
 
 .cabecalho-lista-item {
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+    display: inline-block; /*o valor inline-block na propiedade display, os itens da lista ficam lado a lado*/
+    margin: 0 16px; /**/
+    font-size: 24px; /*tamanho da fonte*/
 }
 
 .cabecalho-lista-item a{
-    text-decoration: none;
+    text-decoration: none; /**/
     color:aliceblue; /*cor*/
 }
 
@@ -43,8 +42,8 @@ a:houver{
 }
 
 /*efeito alterar a cor quando clicar com o mouse*/
-a:active{
-    color:cyan(105,144,216 );
+a:hover{
+    color:aquamarine /*cor*/
 }
 
 
