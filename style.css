@@ -76,3 +76,36 @@ a:hover{
     border-radius: 82px; /*para definir bordas arredondadas da imagem*/
 }
 /*fim da seção escola*/
+
+
+
+/*INICIO SEÇÃO ESTUDANTE*/
+.estudante{
+background-color:#16cffb /* cor de fundo*/
+ color:aqua /*cor*/
+}
+・estudante-titulo
+padding: 24px e; /Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o segundo valor bordas horizontais(esquerda e direita)/ margin: 0 120px; /* alinhar o espaçamento / font-size: 25px;/*tamanho da fonte/
+-estudantes-todost
+display: grid; /* específicar o espaçamento do grid(organizar por colunas) */
+grid-template-columns: 25% 25% 25% 25%,
+padding: e 60px; /Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o segundo valor bordas horizontais(esquerda e direita)/
+estudante-dive text-align:
+center;/texto centralizado/
+padding: 12px 0; /Altera o espaçamento interno, o primeiro valor bordas verticais (superior e inferior) e o segundo valor bordas horizontais(esquerda e direita)/
+
+estudante-imagem!
+width: 120px;
+/largura/
+•estudante-nomei
+font-size: 14px;/tamanho da fonte/
+. estudante-iconel
+width: 24px;
+/larguna/
+padding: 4px Spx;/Altera o espaçamento interno, o primeiro valor bordas verticais (superior e inferior) e o segundo valon bordas horizontais (esquerda e direita)/
+)
+/FIM SECAO ESTUDANTE/
+/SEÇÃO RODAPÉ/
+•rodapel
+background-image: linear-gradient(#16a5f8,
+#424561); /*define um gradiente linear como a imagem de
