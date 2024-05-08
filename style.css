@@ -71,7 +71,7 @@ a:hover{
 }
 
 .imagem-escola{
-    width: 20%; /*largura*/
+    width: 30%; /*largura*/
     height: 300px; /*altura*/
     border-radius: 82px; /*para definir bordas arredondadas da imagem*/
 }
