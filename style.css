@@ -81,8 +81,8 @@ a:hover{
 
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
-background-color:#16cffb;/* cor de fundo*/
- color:black; /*cor*/
+background-color:black;/* cor de fundo*/
+ color:aqua; /*cor*/
 }
 ・estudante-titulo{
 padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o segundo valor bordas horizontais(esquerda e direita)*/ 
