@@ -33,7 +33,7 @@ crie um seletor para a classe .cabecalho-lista-item, adicionando nele a propieda
 
 .cabecalho-lista-item a{
     text-decoration: none; /**/
-    color:aliceblue; /*cor*/
+    color:black; /*cor*/
 }
 
 /*efeito alterara a cor quando passa o mouse*/
