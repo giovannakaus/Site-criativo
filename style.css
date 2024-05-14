@@ -7,7 +7,7 @@
 
 .cabecalho{
     background-color: blueviolet; /*cor de fundo*/
-    color:aqua; /*cor*/
+    color:black; /*cor*/
     display: flex; /*propiedade flex para organizar os itens do cabeçalho, lado a lado*/
     justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
     align-items: center; /*alinhamento de itens centralizado*/
